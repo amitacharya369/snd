@@ -1,0 +1,55 @@
+{
+  "companyName": "Signs & Decal Corp.",
+  "tagline": "Architectural Signage, Metal & Glass Engineering Since 1971",
+  "foundingYear": 1971,
+  "phone": "(718) 486-6400",
+  "salesEmail": "salesteam@signsanddecal.com",
+  "notificationEmails": [
+    "salesteam@signsanddecal.com",
+    "estimating@signsanddecal.com"
+  ],
+  "address": {
+    "street": "410 Morgan Avenue",
+    "city": "Brooklyn",
+    "state": "NY",
+    "zip": "11211"
+  },
+  "mbeCertificationText": "Certified MBE Architectural Fabricator (NYC SBS, SCA & PANYNJ)",
+  "hero": {
+    "badgeText": "Est. 1971 in Brooklyn, NY • Certified MBE Architectural Fabricator",
+    "headline": "Architectural Signage, Metal & Glass Fabrication for Construction.",
+    "subheadline": "For over 50 years, Signs & Decal Corp. (S+D) has engineered, fabricated, and installed monumental wayfinding, structural glass, and specialty architectural metals for New York’s premier general contractors, transit agencies, and commercial developers.",
+    "primaryCtaText": "Request a Quote / Project Bid",
+    "secondaryCtaText": "Explore Landmark Work"
+  },
+  "operatingStats": [
+    {
+      "value": "1971",
+      "label": "Founded in NYC",
+      "detail": "Over 50 years of continuous fabrication"
+    },
+    {
+      "value": "5,000+",
+      "label": "Completed Projects",
+      "detail": "Transit hubs, stadiums, high-rises, airports"
+    },
+    {
+      "value": "100%",
+      "label": "Union Installation",
+      "detail": "Fully prequalified with major general contractors"
+    },
+    {
+      "value": "Certified MBE",
+      "label": "Tier-1 Diversity Partner",
+      "detail": "NYC SBS, NYC SCA & PANYNJ certified"
+    }
+  ],
+  "chatbot": {
+    "enabled": true,
+    "name": "Sandra",
+    "avatarUrl": "/images/team/sandra.png",
+    "welcomeMessage": "Hey I am Sandra from SND, how can I help you?",
+    "escalationEmail": "salesteam@signsanddecal.com",
+    "geminiApiKey": ""
+  }
+}

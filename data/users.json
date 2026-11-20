@@ -1,0 +1,97 @@
+[
+  {
+    "id": "USR-101",
+    "username": "admin",
+    "name": "Haas Khalfan",
+    "email": "haas@signsanddecal.com",
+    "role": "Executive Administrator",
+    "passwordPlain": "snd2026!",
+    "createdAt": "2026-01-01T08:00:00.000Z",
+    "lastLogin": "2026-11-20T18:43:49.929Z",
+    "active": true,
+    "avatarUrl": "/images/team/haas-khalfan.png"
+  },
+  {
+    "id": "USR-102",
+    "username": "carlos",
+    "name": "Carlos Colon",
+    "email": "carlos@signsanddecal.com",
+    "role": "Senior Estimator",
+    "passwordPlain": "estimating2026",
+    "createdAt": "2026-01-15T09:00:00.000Z",
+    "lastLogin": "2026-10-23T16:09:14.318Z",
+    "active": true,
+    "avatarUrl": "/images/team/carlos-colon.png"
+  },
+  {
+    "id": "USR-103",
+    "username": "abbas",
+    "name": "Abbas Khalfan",
+    "email": "abbas@signsanddecal.com",
+    "role": "Operations Director",
+    "passwordPlain": "plant410",
+    "createdAt": "2026-01-20T10:00:00.000Z",
+    "lastLogin": "2026-10-22T14:48:03.073Z",
+    "active": true,
+    "avatarUrl": "/images/team/abbas-khalfan.png"
+  },
+  {
+    "id": "USR-104",
+    "username": "clara",
+    "name": "Clara Liranzo",
+    "email": "clara@signsanddecal.com",
+    "role": "Finance & Compliance",
+    "passwordPlain": "compliance2026",
+    "createdAt": "2026-02-01T11:00:00.000Z",
+    "lastLogin": "2026-10-21T14:48:03.073Z",
+    "active": true,
+    "avatarUrl": "/images/team/clara-liranzo.png"
+  },
+  {
+    "id": "USR-105",
+    "username": "piotr",
+    "name": "Piotr Bartyzel",
+    "email": "piotr@signsanddecal.com",
+    "role": "Design & Engineering",
+    "passwordPlain": "bimdesign2026",
+    "createdAt": "2026-02-15T12:00:00.000Z",
+    "lastLogin": "2026-10-20T14:48:03.073Z",
+    "active": true,
+    "avatarUrl": "/images/team/piotr-bartyzel.png"
+  },
+  {
+    "id": "USR-106",
+    "username": "sandra",
+    "name": "Sandra",
+    "email": "sandra@signsanddecal.com",
+    "role": "Project Coordinator",
+    "passwordPlain": "coordinator2026",
+    "createdAt": "2026-03-01T14:00:00.000Z",
+    "lastLogin": "2026-10-23T14:48:03.073Z",
+    "active": true,
+    "avatarUrl": "/images/team/sandra.png"
+  },
+  {
+    "username": "alex",
+    "name": "Alex Turner",
+    "email": "alex@signsanddecal.com",
+    "role": "Project Manager",
+    "passwordPlain": "alex2026!",
+    "active": true,
+    "id": "USR-467",
+    "createdAt": "2026-10-23T15:01:47.691Z",
+    "lastLogin": "2026-10-23T15:01:47.707Z"
+  },
+  {
+    "id": "USR-107",
+    "username": "robert",
+    "name": "Robert Vance",
+    "email": "robert.engineering@signsanddecal.com",
+    "role": "Chief Engineer",
+    "passwordPlain": "chiefengineer2026",
+    "createdAt": "2026-03-10T09:00:00.000Z",
+    "lastLogin": "2026-10-23T14:50:00.000Z",
+    "active": true,
+    "avatarUrl": "/images/team/robert.png"
+  }
+]

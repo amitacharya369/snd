@@ -1,0 +1,186 @@
+[
+  {
+    "id": "INQ-5031",
+    "createdAt": "2026-10-23T14:31:18.365Z",
+    "updatedAt": "2026-10-23T16:09:48.961Z",
+    "source": "AI Chatbot",
+    "fullName": "Chat Direct Contact",
+    "company": "Pending Details",
+    "email": "testuser@aecom.com",
+    "phone": "212-555-4321",
+    "projectType": "Direct Chat Consultation",
+    "projectLocation": "New York Metro Area",
+    "timeline": "Standard Bid Timeline",
+    "budget": "In Review",
+    "message": "Contact provided in Sandra chat:\n\"my email is testuser@aecom.com and phone is 212-555-4321, tell haas i want to meet\"\nContext: my email is testuser@aecom.com and phone is 212-555-4321, tell haas i want to meet",
+    "chatTranscript": [
+      {
+        "role": "user",
+        "content": "my email is testuser@aecom.com and phone is 212-555-4321, tell haas i want to meet",
+        "timestamp": "2026-10-23T14:31:18.364Z"
+      }
+    ],
+    "internalNotes": "[Verification] Official test response via Outlook verified.",
+    "status": "RESPONDED"
+  },
+  {
+    "id": "INQ-3653",
+    "createdAt": "2026-10-23T14:31:04.641Z",
+    "updatedAt": "2026-10-23T20:54:50.848Z",
+    "source": "AI Chatbot",
+    "status": "WON",
+    "fullName": "Chat Direct Contact",
+    "company": "Pending Details",
+    "email": "testuser@aecom.com",
+    "phone": "212-555-4321",
+    "projectType": "Direct Chat Consultation",
+    "projectLocation": "New York Metro Area",
+    "timeline": "Standard Bid Timeline",
+    "budget": "In Review",
+    "message": "Contact provided in Sandra chat:\n\"my email is testuser@aecom.com and phone is 212-555-4321, tell haas i want to meet\"\nContext: my email is testuser@aecom.com and phone is 212-555-4321, tell haas i want to meet",
+    "chatTranscript": [
+      {
+        "role": "user",
+        "content": "my email is testuser@aecom.com and phone is 212-555-4321, tell haas i want to meet",
+        "timestamp": "2026-10-23T14:31:04.640Z"
+      }
+    ]
+  },
+  {
+    "id": "INQ-3488",
+    "createdAt": "2026-10-23T14:10:39.449Z",
+    "updatedAt": "2026-10-23T14:10:39.449Z",
+    "source": "AI Chatbot",
+    "status": "NEW",
+    "fullName": "Alex Miller",
+    "company": "Turner Construction",
+    "email": "alex@turner.com",
+    "phone": "(212) 555-0199",
+    "projectType": "Sandra Chatbot Consultation",
+    "projectLocation": "JFK Terminal 6",
+    "timeline": "Immediate Estimating Queue",
+    "budget": "In Review",
+    "message": "Sandra Consultation Record:\nWe need pricing for airport wayfinding",
+    "chatSummary": "PROJECT BRIEF & ESTIMATING SUMMARY (PREPARED BY SANDRA @ SND):\n• Client / Organization: Turner Construction\n• Contact: Alex Miller (alex@turner.com, (212) 555-0199)\n• Project Location: JFK Terminal 6\n• Scope & Trade: Architectural Fabrication / Wayfinding / Metal & Glass\n• Client Discussion Context: \"We need pricing for airport wayfinding...\"\n• Estimator Recommendation: Perform architectural takeoff on Div 10 14 00 / Div 05 50 00, review drawings, and verify MBE project allocation.",
+    "chatTranscript": [
+      {
+        "role": "user",
+        "content": "We need pricing for airport wayfinding",
+        "timestamp": "2026-10-23T14:10:39.447Z"
+      }
+    ],
+    "internalNotes": ""
+  },
+  {
+    "id": "INQ-2179",
+    "createdAt": "2026-10-23T13:43:47.557Z",
+    "updatedAt": "2026-10-23T16:20:56.936Z",
+    "source": "AI Chatbot",
+    "status": "WON",
+    "fullName": "Sarah Jenkins",
+    "company": "Turner Construction",
+    "email": "sjenkins@tcco.com",
+    "phone": "(212) 555-9011",
+    "projectType": "Monumental Stainless Escalator Cladding",
+    "projectLocation": "Penn Station, Manhattan NY",
+    "timeline": "Immediate Estimating Queue",
+    "budget": "In Review",
+    "message": "Chatbot Consultation Record:\nWe need pricing for stainless escalator cladding at Penn Station",
+    "chatSummary": "PROJECT BRIEF & ESTIMATING SUMMARY:\n• Client / Organization: Turner Construction\n• Contact: Sarah Jenkins (sjenkins@tcco.com, (212) 555-9011)\n• Project Location: Penn Station, Manhattan NY\n• Core Scope: Architectural fabrication & signage inquiry identified via AI consultation.\n• Discussion Context: \"We need pricing for stainless escalator cladding at Penn Station...\"\n• Estimator Recommendation: Review CSI Div 10 14 00 / 05 50 00 specification requirements, request full architectural elevation drawings, and verify MBE allocation percentage.",
+    "chatTranscript": [
+      {
+        "role": "user",
+        "content": "We need pricing for stainless escalator cladding at Penn Station",
+        "timestamp": "2026-10-23T13:43:47.556Z"
+      }
+    ]
+  },
+  {
+    "id": "INQ-1001",
+    "createdAt": "2026-10-23T09:42:47.311Z",
+    "updatedAt": "2026-10-23T11:42:47.311Z",
+    "source": "Quote Request",
+    "status": "IN_REVIEW",
+    "fullName": "Marcus Vance",
+    "company": "Skanska USA Building Inc.",
+    "email": "m.vance@skanska.com",
+    "phone": "(212) 555-0142",
+    "projectType": "Aviation Wayfinding & Exterior Canopies",
+    "projectLocation": "Queens, NY (JFK New Terminal One)",
+    "timeline": "Q3 2026",
+    "budget": "$250k - $500k",
+    "message": "Seeking qualified MBE fabricator for CSI Div 10 14 00 signage package and stainless steel directional pylons. Architectural drawings in review.",
+    "internalNotes": "Drawings downloaded. Estimator assigned. Certified MBE documentation verified.",
+    "assignedTo": "Haas Khalfan"
+  },
+  {
+    "id": "INQ-1002",
+    "createdAt": "2026-10-22T19:42:47.311Z",
+    "updatedAt": "2026-10-23T01:42:47.311Z",
+    "source": "AI Chatbot",
+    "status": "FORWARDED_TO_SALES",
+    "fullName": "Elena Rostova",
+    "company": "AECOM Tishman",
+    "email": "elena.rostova@aecom.com",
+    "phone": "(917) 555-8931",
+    "projectType": "Architectural Metal & Glass Partitions",
+    "projectLocation": "Midtown Manhattan Commercial Tower",
+    "timeline": "Immediate / Next Month",
+    "budget": "$100k - $250k",
+    "message": "Need illuminated lobby tenant directories and custom bronze glass partition trim.",
+    "chatSummary": "Client consulted with AI assistant regarding custom bronze finishes and lead times for 599 Lex refurbishment. AI summarized scope and confirmed 100% union installation capability.",
+    "internalNotes": "Forwarded to Carlos Colon for site survey and engineering takeoff.",
+    "assignedTo": "Carlos Colon"
+  },
+  {
+    "id": "INQ-1003",
+    "createdAt": "2026-10-21T13:42:47.311Z",
+    "updatedAt": "2026-10-22T13:42:47.311Z",
+    "source": "Contact Form",
+    "status": "RESPONDED",
+    "fullName": "David O’Connor",
+    "company": "MTA Capital Construction / NYCT",
+    "email": "doconnor@mtacc.info",
+    "phone": "(718) 555-6674",
+    "projectType": "Subway Station Enamel Wayfinding",
+    "projectLocation": "Brooklyn & Manhattan Stations",
+    "timeline": "Standard Bid Timeline",
+    "message": "Submitting request for porcelain enamel platform signage and tactile ADA braille plaques complying with MTA Section 17 standards.",
+    "internalNotes": "Bid proposal #SD-2026-MTA-44 sent via email on Thursday. Follow up scheduled next week.",
+    "assignedTo": "Babu Khalfan"
+  },
+  {
+    "id": "INQ-1004",
+    "createdAt": "2026-10-20T13:42:47.311Z",
+    "updatedAt": "2026-10-21T11:42:47.312Z",
+    "source": "Quote Request",
+    "status": "WON",
+    "fullName": "Robert Sterling",
+    "company": "Tutor Perini Corp.",
+    "email": "rsterling@tutorperini.com",
+    "phone": "(212) 555-4309",
+    "projectType": "Monumental Transit Pylons & Escalator Cladding",
+    "projectLocation": "Newark Liberty International Airport",
+    "timeline": "Underway",
+    "budget": "$500k+",
+    "message": "Executed subcontract for heavy stainless steel escalator cladding and overhead signage gantries.",
+    "internalNotes": "Subcontract signed. Shop drawings approved. Fabrication in progress at Morgan Ave plant.",
+    "assignedTo": "Haas Khalfan"
+  },
+  {
+    "id": "INQ-1005",
+    "createdAt": "2026-10-19T13:42:47.312Z",
+    "updatedAt": "2026-10-19T19:42:47.312Z",
+    "source": "Contact Form",
+    "status": "REJECTED",
+    "fullName": "Unknown Inquirer",
+    "company": "Residential Sign Shop",
+    "email": "signs4u@freemail.com",
+    "phone": "Not provided",
+    "projectType": "Vinyl Banners for Garage Sale",
+    "projectLocation": "Ohio",
+    "timeline": "Tomorrow",
+    "message": "Can you print 2 plastic banners for $50 by tomorrow morning?",
+    "internalNotes": "Disqualified: Residential small sign, outside commercial architectural fabrication scope."
+  }
+]
