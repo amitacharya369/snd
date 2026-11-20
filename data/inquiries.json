@@ -2,7 +2,7 @@
   {
     "id": "INQ-5031",
     "createdAt": "2026-10-23T14:31:18.365Z",
-    "updatedAt": "2026-10-23T16:09:48.961Z",
+    "updatedAt": "2026-11-20T20:10:05.058Z",
     "source": "AI Chatbot",
     "fullName": "Chat Direct Contact",
     "company": "Pending Details",
@@ -20,8 +20,7 @@
         "timestamp": "2026-10-23T14:31:18.364Z"
       }
     ],
-    "internalNotes": "[Verification] Official test response via Outlook verified.",
-    "status": "RESPONDED"
+    "status": "FORWARDED_TO_SALES"
   },
   {
     "id": "INQ-3653",
