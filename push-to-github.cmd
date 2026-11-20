@@ -1,28 +1,42 @@
 @echo off
-setlocal enabledelayedexpansion
-cd /d "%~dp0"
+setlocal EnableDelayedExpansion
+
 echo =======================================================
-echo  Signs ^& Decal Corp. - Push to GitHub
+echo       Signs ^& Decal Corp. - Push to GitHub
 echo =======================================================
 echo.
-echo Target Remote: https://github.com/amitacharya369/snd.git
+
+set "REPO_URL=https://github.com/amitacharya369/snd.git"
+
+echo Target Repository: !REPO_URL!
 echo.
-git remote remove origin 2>nul
-git remote add origin https://github.com/amitacharya369/snd.git
+
+git remote get-url origin >nul 2>&1
+
+if errorlevel 1 (
+    git remote add origin !REPO_URL!
+) else (
+    git remote set-url origin !REPO_URL!
+)
+
 git branch -M main
-echo Pushing to https://github.com/amitacharya369/snd.git...
-echo (A GitHub authentication tab will open in Chrome if needed)
+
 echo.
+echo Pushing code to GitHub...
+echo.
+
 git push -u origin main
-if %ERRORLEVEL% equ 0 (
+
+if errorlevel 1 (
     echo.
-    echo =======================================================
-    echo  [SUCCESS] Code successfully pushed to GitHub!
-    echo =======================================================
-    echo You can now deploy on https://vercel.com/new
+    echo [ERROR] Push failed. Check GitHub authentication and errors.
 ) else (
     echo.
-    echo [ERROR] Push failed. If authentication failed, you can also use a GitHub Personal Access Token (PAT).
+    echo [SUCCESS] Code successfully pushed to GitHub!
+    echo.
+    echo Vercel should now process the production deployment.
 )
+
 echo.
 pause
+endlocal
